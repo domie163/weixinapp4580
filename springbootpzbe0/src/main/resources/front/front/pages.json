@@ -1,0 +1,266 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "登录"
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "注册"
+		}
+	}, {
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "忘记密码"
+		}
+	}, {
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "我的"
+		}
+	}, {
+		"path": "pages/user-info/user-info",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+	, {
+		"path": "pages/news-detail/news-detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "资讯详情"
+		}
+	}
+	,{
+		"path": "pages/wanjia/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/wanjia/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/wanjia/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/youxifenlei/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/youxifenlei/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/youxifenlei/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/daojuzhonglei/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/daojuzhonglei/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/daojuzhonglei/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/youxidaoju/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/youxidaoju/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/youxidaoju/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/zhanjixinxi/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/zhanjixinxi/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/zhanjixinxi/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/shuipingpinggu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/shuipingpinggu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/shuipingpinggu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/aboutus/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/aboutus/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/aboutus/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	}
+	,{
+		"path": "pages/systemintro/list",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/systemintro/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	},{
+		"path": "pages/systemintro/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+		}
+	}
+    ,{
+        "path": "common/linkOthers/linkOthers",
+        "style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black"
+        }
+    }
+	, {
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#C8D9EB",
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "使命召唤游戏助手的设计与实现",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#333333",
+		"selectedColor": "#FFFFFF",
+		"borderStyle": "white",
+		"backgroundColor": "#C8D9EB",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			
+
+
+
+
+
+
+
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
